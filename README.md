@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>👩‍💻 Eman Ragheb Namla</h1>
+ # <h1 align="center">Hi, I'm <a href="https://github.com/Kathryn-Jie">Eman Ragheb Namla<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
+    
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=..&hearts;++,;,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
 </p>
-  <br>
 </div>
 
 ---
