@@ -1,157 +1,102 @@
-
-<h1 align="center"><b>Hi , I'm Eman Namla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
-
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
-
-<br>
-<br>
-
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
 <div align="center">
-
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-</a>
+  <h1>👩‍💻 Eman Ragheb Namla</h1>
+  <p>
+    .NET Developer | Full-Stack Web Developer | Passionate about Clean Code & Scalable Systems
+  </p>
+  <br>
 </div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
 
 ---
 
-<br>
+## 📄 About Me
+A dedicated ASP.NET Developer with hands-on experience in web and backend development. Skilled in .NET technologies, JavaScript, and database management, with a proven track record as an instructor. I thrive in team settings where attention to detail, organization, and continuous learning drive success.
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+---
 
-Last Edited on: 09/11/2022
+## 💼 Professional Experience
+
+### RepoTech Company (April 2024 – Present)
+- Implemented Domain-Driven Design (DDD) and CQRS in new projects.
+- Enhanced existing projects by adding features, conducting code reviews, and refactoring.
+- Built scalable web applications using ASP.NET technologies and Entity Framework.
+- Designed and managed SQL Server databases.
+
+### SAS Company (February 2024 – April 2024)
+- Completed intensive training on ERP systems, focusing on design, implementation, and integration.
+
+---
+
+## 🔥 Projects
+
+### [Company Management System](https://github.com/EmanNamla/COMPANY-MANAGEMENT-SYSTEM-MVC)
+- Framework: ASP.NET MVC, Three-tier architecture.
+- Applied Repository Design Pattern with Unit of Work.
+- Integrated Microsoft Identity for authentication and authorization.
+- Enabled file uploads and configured email sending via SMTP.
+
+### [E-Commerce (Talabat)](https://github.com/EmanNamla/Talabat.API-Project)
+- Framework: ASP.NET API, Onion Architecture.
+- Utilized Specification Design Pattern and Unit of Work.
+- Integrated Stripe Payment Gateway and implemented a shopping basket with Redis.
+- Added features like pagination, searching, sorting, and filtration.
+- Secured the app with JWT Authentication.
+
+---
+
+## 🛠 Skills
+
+### Programming Languages:
+C#, JavaScript, TypeScript
+
+### Frameworks & Libraries:
+ASP.NET Core, Entity Framework, SignalR, Angular (Basics)
+
+### Web & API Development:
+REST APIs / Web APIs, API Gateway, HTML/CSS
+
+### Database Management:
+MS SQL Server, PostgreSQL, Redis, LinQ, ERD Mapping
+
+### Architecture & Design:
+DDD, CQRS, SOLID Principles, Onion Architecture, Design Patterns
+
+### Tools:
+Git, GitHub, TFS, Microsoft Azure
+
+### Messaging Systems:
+RabbitMQ (Basic)
+
+### Testing & Security:
+Unit Testing, JWT Authentication
+
+---
+
+## 🎓 Education
+
+### Bachelor’s Degree in Software Engineering
+- Institution: Faculty of Computer and Information, Kafr El-Sheikh University
+- GPA: 3.5 (2019 – 2023)
+
+---
+
+## 🤝 Let's Connect
+<div align="left">
+  <ul>
+    <li>
+      <a href="https://linkedin.com/in/emannamla" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin:  EmanNamla-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </li>
+    <li>
+      <a href="mailto:emanrnamla222@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/gmail:  emanrnamla222-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/EmanNamla" target="_blank">
+        <img src="https://img.shields.io/badge/github:  EmanNamla-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </li>
+  </ul>
+</div>
+
