@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👩‍💻 Eman Ragheb Namla</h1>
   <p>
-    .NET Developer | Full-Stack Web Developer | Passionate about Clean Code & Scalable Systems
+    .NET Developer 
   </p>
   <br>
 </div>
