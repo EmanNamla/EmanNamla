@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👩‍💻 Eman Ragheb Namla</h1>
   <p>
-    .NET Developer | Full-Stack Web Developer | Passionate about Clean Code & Scalable Systems
+    .NET Developer
   </p>
   <br>
 </div>
@@ -15,7 +15,7 @@ A dedicated ASP.NET Developer with hands-on experience in web and backend develo
 
 ## 💼 Professional Experience
 
-### RepoTech Company (April 2024 – Present)
+### RepoTech Company (April 2024 – December 2024)
 - Implemented Domain-Driven Design (DDD) and CQRS in new projects.
 - Enhanced existing projects by adding features, conducting code reviews, and refactoring.
 - Built scalable web applications using ASP.NET technologies and Entity Framework.
