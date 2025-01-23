@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👩‍💻 Eman Ragheb Namla</h1>
   <p>
-    .NET Developer
+    BackEnd Developer .NET
   </p>
   <br>
 </div>
