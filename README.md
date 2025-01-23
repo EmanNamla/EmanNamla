@@ -12,37 +12,6 @@
 A dedicated ASP.NET Developer with hands-on experience in web and backend development. Skilled in .NET technologies, JavaScript, and database management, with a proven track record as an instructor. I thrive in team settings where attention to detail, organization, and continuous learning drive success.
 
 ---
-
-## 💼 Professional Experience
-
-### RepoTech Company (April 2024 – Present)
-- Implemented Domain-Driven Design (DDD) and CQRS in new projects.
-- Enhanced existing projects by adding features, conducting code reviews, and refactoring.
-- Built scalable web applications using ASP.NET technologies and Entity Framework.
-- Designed and managed SQL Server databases.
-
-### SAS Company (February 2024 – April 2024)
-- Completed intensive training on ERP systems, focusing on design, implementation, and integration.
-
----
-
-## 🔥 Projects
-
-### [Company Management System](https://github.com/EmanNamla/COMPANY-MANAGEMENT-SYSTEM-MVC)
-- Framework: ASP.NET MVC, Three-tier architecture.
-- Applied Repository Design Pattern with Unit of Work.
-- Integrated Microsoft Identity for authentication and authorization.
-- Enabled file uploads and configured email sending via SMTP.
-
-### [E-Commerce (Talabat)](https://github.com/EmanNamla/Talabat.API-Project)
-- Framework: ASP.NET API, Onion Architecture.
-- Utilized Specification Design Pattern and Unit of Work.
-- Integrated Stripe Payment Gateway and implemented a shopping basket with Redis.
-- Added features like pagination, searching, sorting, and filtration.
-- Secured the app with JWT Authentication.
-
----
-
 ## 🛠 Skills
 
 ### Programming Languages:
